@@ -3,9 +3,6 @@
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 Computer Engineering student at Lovely Professional University (LPU).
 - 👨‍💻 Qualify in Goldman Sachs campus engineering hiring program.
-- 👯 Developed 150+ special mathematical functions in C & JavaScript.
-- 👯 Optimized JavaScript probability distributions, achieving 10,000x speed improvements over SciPy.
-- ✨ Strong background in Data Structures, Algorithms, and Competitive Programming.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: <a href="sardarij55@gmail.com.">sardarij55@gmail.</a> 
 ## 🚀 Languages and Tools
