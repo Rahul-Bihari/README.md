@@ -7,7 +7,7 @@
 - 👯 Optimized JavaScript probability distributions, achieving 10,000x speed improvements over SciPy.
 - ✨ Strong background in Data Structures, Algorithms, and Competitive Programming.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: <a href="sardarij55@gmail.com."sardarij55@gmail.</a> / 
+- 📫 How to reach me: <a href="sardarij55@gmail.com.">sardarij55@gmail.</a> 
 ## 🚀 Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
